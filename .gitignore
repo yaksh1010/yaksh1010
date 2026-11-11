@@ -1,0 +1,6 @@
+preview/
+__pycache__/
+.DS_Store
+preview.html
+.claude/
+preview-light.html
