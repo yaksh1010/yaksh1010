@@ -77,5 +77,5 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=yaksh1010&icon=0&color=0" alt="Visitor count"></a>
+  <img src="https://komarev.com/ghpvc/?username=yaksh1010&style=pixel&color=a855f7&label=VISITORS" alt="Visitor count">
 </p>
